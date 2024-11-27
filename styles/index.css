@@ -90,6 +90,19 @@ h1{
     max-width: 1440px;
 }
 
+.privacy, .imprint{
+    max-width: 1400px;
+    align-items: flex-start;
+    padding-inline: 32px;
+    
+}
+
+@media (max-width:400px){
+    .privacy, .imprint{
+        padding-inline: 5px;
+    }
+}
+
 @media only screen and (min-width: 1024px) and (max-width: 1124px) {
     .landingheader_box {
         height: 500px;
