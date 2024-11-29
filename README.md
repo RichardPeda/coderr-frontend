@@ -9,6 +9,7 @@
  
 
  
- You can download the corresponding backend API of coderr
+ You can download the corresponding backend API here
  [Coderr-API](https://github.com/RichardPeda/coderr-backend)
 
+This project was kindly made available to me by the Developer Akademie
